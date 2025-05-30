@@ -2,6 +2,9 @@
 
 This project analyzes my personal half-marathon training data using the Strava API. I used Python to extract, clean, and visualize metrics like distance, pace, heart rate, and cadence across a 17-week training block leading up to race day.
 
+- FINSIHED TIME: 02:09:56
+- GOAL TIME: 02:10:00
+
 ---
 
 ## 📌 Project Summary
@@ -52,22 +55,22 @@ All plots generated using `matplotlib`:
 
 ##  Key Insights
 
-- 📈 **Mileage Growth**  
+-  **Mileage Growth**  
   Weekly mileage increased by **over 235%**, from 6.2 miles in Week 2 to a peak of 20.8 miles, showing strong volume progression and training consistency.
 
-- ⏱️ **Pace Improvement**  
+-  **Pace Improvement**  
   Average pace dropped from **11:37 to 9:54 min/mi**, a **14.7% improvement** — reflecting increased aerobic capacity and efficient pacing.
 
-- ❤️ **Cardiovascular Efficiency**  
+-  **Cardiovascular Efficiency**  
   Despite faster paces, average heart rate decreased by up to **11 BPM**, indicating improved cardiovascular endurance and recovery.
 
-- 🦶 **Cadence Optimization**  
+-  **Cadence Optimization**  
   Cadence increased from **156 SPM to 178 SPM**, aligning with the ideal range for distance runners. This indicates better running form and stride economy.
 
-- 🧠 **Smart Tapering**  
-  Strategic mileage reductions before race week suggest proper tapering, helping me arrive at the start line fresh and race-ready.
+- **Smart Tapering**  
+  Strategic mileage reductions before race week (May 3rd) suggest proper tapering, helping me arrive at the start line fresh and race-ready.
 
-- 🎯 **Consistent Progress**  
+- **Consistent Progress**  
   The trends show steady progress across all metrics with minimal regressions — a strong sign of balanced training and sustainable improvement.
 
 ---
