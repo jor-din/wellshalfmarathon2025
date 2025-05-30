@@ -2,7 +2,7 @@
 
 This project analyzes my personal half-marathon training data using the Strava API. I used Python to extract, clean, and visualize metrics like distance, pace, heart rate, and cadence across a 17-week training block leading up to race day.
 
-- FINSIHED TIME: 02:09:56
+- FINISHED TIME: 02:09:56
 - GOAL TIME: 02:10:00
 
 ---
